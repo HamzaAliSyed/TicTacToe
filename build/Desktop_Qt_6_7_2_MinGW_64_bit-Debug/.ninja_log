@@ -1,0 +1,9 @@
+# ninja log v6
+17	1378	7473290907362250	TicTacToe_autogen/timestamp	2cfbb9948d238ca4
+17	1378	7473290907362250	TicTacToe_autogen/mocs_compilation.cpp	2cfbb9948d238ca4
+17	1378	7473290907362250	C:/Users/syedh/OneDrive/Documents/TicTacToe/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TicTacToe_autogen/timestamp	2cfbb9948d238ca4
+17	1378	7473290907362250	C:/Users/syedh/OneDrive/Documents/TicTacToe/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TicTacToe_autogen/mocs_compilation.cpp	2cfbb9948d238ca4
+1396	6498	7473290908861381	CMakeFiles/TicTacToe.dir/main.cpp.obj	e2cec1b2a8899a6b
+1389	6501	7473290908791415	CMakeFiles/TicTacToe.dir/TicTacToe_autogen/mocs_compilation.cpp.obj	6c8f68a8f4090dd7
+1404	6746	7473290908931342	CMakeFiles/TicTacToe.dir/mainwindow.cpp.obj	d43f371647c037da
+6747	8216	7473290962358447	TicTacToe.exe	2dafd456ba0c9dc5

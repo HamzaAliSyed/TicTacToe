@@ -1,0 +1,17 @@
+# Qt-specific
+*.pro.user
+*.qmake.stash
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*build-*
+
+# Compiled files
+*.o
+*.exe
+*.dll
+*.lib
+*.a
+*.app
+
