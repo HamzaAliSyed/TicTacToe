@@ -43,4 +43,4 @@ This project demonstrates several C++ and Qt concepts:
 
 15. **Custom Slots**: For handling game logic like button clicks and AI moves.
 
-This project serves as a good introduction to building GUI applications with Qt and applying fundamental C++ concepts in a real-world scenario.
+This project is my first attempt in learning QT, its something one can knockout in an afternoon
